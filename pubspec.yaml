@@ -1,7 +1,7 @@
 name: easy_localization_csv_module
-description: "Description here"
+description: "module that provides setting up easy_localization with csv files"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/easy_localization_csv_module
 
 version: 0.0.1+1
 
